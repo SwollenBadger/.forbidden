@@ -54,6 +54,7 @@ package() {
         $REFLECTOR_PACKAGE \
         $PLYMOUTH_PACKAGE \
         $FS_PACKAGE \
+        $AUDIO \
         $BLUETOOTH_PACAKGE \
         $OTHER_PACKAGE
 
