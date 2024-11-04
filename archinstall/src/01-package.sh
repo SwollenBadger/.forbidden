@@ -5,6 +5,7 @@ package() {
 
     BASE_PACKAGE="base sudo linux-firmware"
     NETWORK_PACKAGE="networkmanager wpa_supplicant wireless_tools netctl openssh"
+    AUDIO="pipewire pipewire-audio pipewire-pulse pipewire-jack pipewire-alsa wireplumber pavucontrol"
     REFLECTOR_PACKAGE="reflector pacman-contrib"
     PLYMOUTH_PACKAGE="plymouth"
     FS_PACKAGE="ntfs-3g exfatprogs"
